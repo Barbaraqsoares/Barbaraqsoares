@@ -9,7 +9,6 @@
 
 - 😄 Pronouns: ela/dela
 
-- :dart: Atualmente aprendendo C#
 <br></br>
 <div>
 
